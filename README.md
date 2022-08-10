@@ -81,3 +81,43 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a
 
 Når du er Authenticated og benytter CLI så kan det være nødvendigt at ændre configurations stien i .git/config. Det gøres ved hjælp af denne commando.
 git remote set-url origin git@github.com:MCDM-Viborg/RepositorieTitle.git
+
+
+
+
+
+
+{
+    "login": "McAndersC",
+    "id": 89982133,
+    "node_id": "MDQ6VXNlcjg5OTgyMTMz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/89982133?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/McAndersC",
+    "html_url": "https://github.com/McAndersC",
+    "followers_url": "https://api.github.com/users/McAndersC/followers",
+    "following_url": "https://api.github.com/users/McAndersC/following{/other_user}",
+    "gists_url": "https://api.github.com/users/McAndersC/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/McAndersC/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/McAndersC/subscriptions",
+    "organizations_url": "https://api.github.com/users/McAndersC/orgs",
+    "repos_url": "https://api.github.com/users/McAndersC/repos",
+    "events_url": "https://api.github.com/users/McAndersC/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/McAndersC/received_events",
+    "type": "User",
+    "site_admin": false,
+    "name": "Anders Christensen",
+    "company": null,
+    "blog": "",
+    "location": null,
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "twitter_username": null,
+    "public_repos": 12,
+    "public_gists": 0,
+    "followers": 7,
+    "following": 0,
+    "created_at": "2021-09-02T12:32:10Z",
+    "updated_at": "2022-08-09T11:14:13Z"
+  }
